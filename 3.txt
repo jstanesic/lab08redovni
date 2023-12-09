@@ -1,1 +1,2 @@
-Hej ovo je moja promjena.
+1: Hej ovo je moja promjena.
+2: A ovo je moja promjena.
